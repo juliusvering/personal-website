@@ -68,7 +68,7 @@
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
-    "deploy": "gatsby build && gh-pages -d public -b master",
+    "deploy": "gh-pages -d public -b master",
     "dev": "npm run develop",
     "serve": "gatsby serve",
     "build": "gatsby build",
