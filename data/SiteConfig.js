@@ -8,8 +8,8 @@ module.exports = {
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "Julius Vering's personal website.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
-  siteFBAppID: "1825356251115265", // FB Application ID for using app insights
-  siteGATrackingID: "UA-47311644-4", // Tracking code ID for google analytics.
+  siteFBAppID: "1159239017560888", // FB Application ID for using app insights
+  siteGATrackingID: "UA-129488624-1", // Tracking code ID for google analytics.
   postDefaultCategoryID: "Tech", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
