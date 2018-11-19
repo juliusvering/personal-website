@@ -26,7 +26,7 @@ module.exports = {
       iconClassName: "fa fa-github"
     },
     {
-      label: "Twitter",
+      label: "LinkedIn",
       url: "https://www.linkedin.com/in/julius-vering",
       iconClassName: "fa fa-linkedin"
     },

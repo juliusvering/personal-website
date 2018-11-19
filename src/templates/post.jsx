@@ -78,24 +78,8 @@ export default class PostTemplate extends React.Component {
                 <PostInfo postNode={postNode} />
                 <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
               </CardText>
-              <div className="post-meta">
-                <PostTags tags={post.tags} />
-                <SocialLinks
-                  postPath={slug}
-                  postNode={postNode}
-                  mobile={this.state.mobile}
-                />
-              </div>
             </Card>
-            <UserInfo
-              className="md-grid md-cell md-cell--12"
-              config={config}
-              expanded={expanded}
-            />
-            <Disqus postNode={postNode} expanded={expanded} />
           </div>
-
-          <PostSuggestions postNode={postNode} />
         </div>
       </Layout>
     );
