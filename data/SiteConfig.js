@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: "Julius Vering", // Site title.
-  siteTitleShort: "JV", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleShort: "JVering", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Julius Vering Personal Website", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://www.juliusvering.com", // Domain of your website without pathPrefix.
